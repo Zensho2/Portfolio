@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function About() {
   return (
     <div className="max-w-2xl mx-auto space-y-4">
